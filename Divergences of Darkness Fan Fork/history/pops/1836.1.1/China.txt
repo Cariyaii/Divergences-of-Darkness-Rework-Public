@@ -10029,12 +10029,12 @@
 	aristocrats = {
 		culture = asian_minor
 		religion = animist
-		size = 1700
+		size = 1520
 	}
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4475
+		size = 3975
 	}
 	aristocrats = {
 		culture = hui
@@ -10054,17 +10054,17 @@
 	artisans = {
 		culture = asian_minor
 		religion = animist
-		size = 4400
+		size = 3900
 	}
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 350
+		size = 300
 	}
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 9000
 	}
 	artisans = {
 		culture = hui
@@ -10084,12 +10084,12 @@
 	clergymen = {
 		culture = asian_minor
 		religion = animist
-		size = 900
+		size = 800
 	}
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1975
+		size = 1775
 	}
 	clergymen = {
 		culture = hui
@@ -10109,12 +10109,12 @@
 	farmers = {
 		culture = asian_minor
 		religion = animist
-		size = 80100
+		size = 68300
 	}
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 166625
+		size = 148065
 	}
 	farmers = {
 		culture = hui
@@ -10134,12 +10134,12 @@
 	soldiers = {
 		culture = asian_minor
 		religion = animist
-		size = 900
+		size = 800
 	}
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1175
+		size = 1025
 	}
 	soldiers = {
 		culture = hui
@@ -10155,6 +10155,63 @@
 		culture = yi
 		religion = animist
 		size = 325
+	}
+}
+3374 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 180
+	}
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 500
+	}
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 500
+	}
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 50
+	}
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1000
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 200
+	}
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 11800
+	}
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 18560
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 150
 	}
 }
 #Zhejiang Region (9948000)
