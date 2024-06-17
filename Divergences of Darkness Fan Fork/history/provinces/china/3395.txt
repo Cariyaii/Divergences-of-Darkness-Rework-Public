@@ -1,0 +1,8 @@
+owner = SHU 
+controller = SHU 
+trade_goods = iron 
+life_rating = 35 
+terrain = deciduous_forest_hills 
+add_core = SHU 
+add_core = MCH 
+add_core = CHI 

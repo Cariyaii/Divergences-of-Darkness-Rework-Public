@@ -1,0 +1,8 @@
+owner = SHU 
+controller = SHU 
+trade_goods = iron 
+life_rating = 35 
+terrain = temperate_grassland 
+add_core = SHU 
+add_core = MCH 
+add_core = CHI 

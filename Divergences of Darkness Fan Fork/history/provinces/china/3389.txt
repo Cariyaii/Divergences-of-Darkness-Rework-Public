@@ -1,0 +1,7 @@
+owner = CHG 
+controller = CHG 
+trade_goods = cattle 
+life_rating = 30 
+terrain = desert 
+add_core = CHG 
+add_core = MGL 

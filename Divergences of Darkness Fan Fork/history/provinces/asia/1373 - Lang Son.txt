@@ -1,5 +1,6 @@
-owner = DAI
-controller = DAI
+owner = SHU
+controller = SHU
+add_core = SHU
 add_core = DAI
 trade_goods = tropical_wood
 life_rating = 30

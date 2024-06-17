@@ -1,0 +1,7 @@
+owner = SHU 
+controller = SHU 
+trade_goods = silk 
+life_rating = 35 
+terrain = deciduous_forest_mountains 
+add_core = SHU 
+add_core = CHI 

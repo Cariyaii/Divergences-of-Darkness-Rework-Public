@@ -1,0 +1,7 @@
+owner = SHU 
+controller = SHU 
+trade_goods = lead 
+life_rating = 35 
+terrain = deciduous_forest_mountains 
+add_core = SHU 
+add_core = CHI 

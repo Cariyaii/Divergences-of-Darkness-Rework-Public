@@ -1,0 +1,7 @@
+owner = SHU 
+controller = SHU 
+trade_goods = tea 
+life_rating = 32 
+terrain = deciduous_forest_hills 
+add_core = SHU 
+add_core = CHI 

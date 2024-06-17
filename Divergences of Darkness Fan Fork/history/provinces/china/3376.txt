@@ -1,0 +1,7 @@
+owner = SHU 
+controller = SHU 
+trade_goods = sulphur 
+life_rating = 33 
+terrain = seasonal_jungle_mountains 
+add_core = SHU 
+add_core = CHI 

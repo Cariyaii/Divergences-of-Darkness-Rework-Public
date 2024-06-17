@@ -1,0 +1,8 @@
+owner = CHG 
+controller = CHG 
+trade_goods = cattle 
+life_rating = 32 
+terrain = hilly_grassland 
+add_core = MCH 
+add_core = CHG 
+add_core = MGL 
